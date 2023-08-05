@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    background-color: hsla(155, 75%, 35%, 0.7);
+    color: hsl(299, 35%, 38%);
+    font-family: "Verdana", sans-serif;
+    font-weight: 210
+}
+img {
+    height: auto;
+    width: 550px;
+    margin-left: 330px
+}
+h2, p {
+    text-align: center;
+    font-size: 22px;
+    font-family: "Helvetica", Verdana
+}
+h3 {
+    font-size: 18px;
+    font-family: "Helvetica", Verdana;
+    text-decoration: underline
+}
